@@ -13,8 +13,32 @@ ou vaga júnior**, com interesse especial em tecnologia para o **setor financeir
 
 Foco atual:
 
-![Python](https://skillicons.dev/icons?i=python,sqlite,git,github)
+<img
+  title="Python"
+  width="40px"
+  style="padding-right: 10px;"
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
+/>
+<img
+  title="SQLite3"
+  width="40px"
+  style="padding-right: 10px;"
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-original.svg" 
+/>
+<img 
+  title="Git"
+  width="40px"
+  style="padding-right: 10px;"
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
+/>
+<img
+  title="Github"
+  width="40px"
+  style="padding-right: 10px;"
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg"
+/>
 
+                
 Já tive contato (base acadêmica): C, C#, Java, SQL/MySQL e VBA.
 
 ---
